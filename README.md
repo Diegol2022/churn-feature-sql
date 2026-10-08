@@ -26,7 +26,7 @@ git --version
 ### Paso 1: Clonar el repositorio
 
 ```bash
-git clone https://github.com/TU_USUARIO/churn-features-sql.git
+git clone https://github.com/Diegol2022/churn-features-sql.git
 cd churn-features-sql
 ```
 
