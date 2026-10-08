@@ -1,0 +1,5 @@
+# Este proyecto no tiene dependencias externas.
+# Solo usa la biblioteca estándar de Python 3.8+ (sqlite3, csv, zipfile, argparse).
+#
+# El archivo se incluye por convención: "pip install -r requirements.txt"
+# funciona igual y no instala nada.
